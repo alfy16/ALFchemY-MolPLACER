@@ -1,5 +1,7 @@
 # ALFchemY-MolPLACER
 A basic code for creating a dimer from a molecule with accurate interplanar, x, and y displacements.
+If you find this code usefull, please cite MolPLACER as:<br>
+<a href="https://zenodo.org/badge/latestdoi/268278803"><img src="https://zenodo.org/badge/268278803.svg" alt="DOI"></a>
 
 <h2>prerequisite:</h2>
 <ul>

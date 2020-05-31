@@ -1,4 +1,8 @@
 # ALFchemY-MolPLACER
+ <figure>
+  <img src="MolPLACER.png" alt="image" style="width:100%">
+  <figcaption>Fig.1 - Pentacene dimer.</figcaption>
+</figure> 
 A basic code for creating a dimer from a molecule with accurate interplanar, x, and y displacements.
 If you find this code useful, please cite MolPLACER:<br>
 <a href="https://zenodo.org/badge/latestdoi/268278803"><img src="https://zenodo.org/badge/268278803.svg" alt="DOI"></a>

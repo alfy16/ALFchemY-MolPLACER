@@ -31,5 +31,11 @@ Steps to create a dimer with custom interplanar distance, x axis displacement an
 <li>Enter the y axis displacement</li>
 <li>You will find that a new file named "fixed.xyz" is created in the directory. Open it (Eg. in Mercury) and save it again in any other format (.mol2,.xyz,.pdb etc.) for further use.</li>
 <br>
+
+<h2>Version 1.1.0</h2>
+Now the code can rotate molecule along the z axis
+For a video tutorial, visit the following link: 
+<a href="https://www.youtube.com/watch?v=r90rVmjztp8&t=8s">link text</a>
+
 Please note that I am a beginner in coding and there are chances that the code can have some bugs. So if you find any issues with MolPLACER, please feel free to contact me via email:alfysmail@gmail.com
 

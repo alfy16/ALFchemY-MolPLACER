@@ -37,5 +37,5 @@ Now the code can rotate molecule along the z axis
 For a video tutorial, visit the following link: 
 <a href="https://www.youtube.com/watch?v=r90rVmjztp8&t=8s">MolPlacer Tutorial</a>
 
-Please note that I am a beginner in coding and there are chances that the code can have some bugs. So if you find any issues with MolPLACER, please feel free to contact me via email:alfysmail@gmail.com
+Please note that I am a beginner in coding and there are chances that the code can have some bugs.
 
